@@ -46,7 +46,7 @@ Feel free to discuss your database model design ideas with your classmates. You 
 
 Using your database model as a blueprint, create a database schema for each of your tables and relationships. Remember to specify data types, primary keys, foreign keys, and any other constraints you defined.
 
-![Screenshot 2023-07-31 at 10 08 27 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/956bbc53-8cd7-48c8-9db2-28ccb0838ee4)
+![Screenshot 2023-07-31 at 10 10 38 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/16b7f0be-1cba-41bc-b653-b8cb5dd1ca0f)
 
 After creating the database schema, import the data from the corresponding CSV files.
 
