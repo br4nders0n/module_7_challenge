@@ -19,9 +19,6 @@ Define a database model to store the credit card transactions data and create a 
 
 3. [Data Analysis](#Data-Analysis): Analyze the data to identify possible fraudulent transactions trends data, and develop a report of your observations.
 
----[group_transactions_by_cardholder.csv](https://github.com/br4nders0n/module_7_challenge/files/12215831/group_transactions_by_cardholder.csv)
-
-
 ## Files
 
 * [card_holder.csv](Data/card_holder.csv)
@@ -49,10 +46,11 @@ Feel free to discuss your database model design ideas with your classmates. You 
 
 Using your database model as a blueprint, create a database schema for each of your tables and relationships. Remember to specify data types, primary keys, foreign keys, and any other constraints you defined.
 
-[Uploading module_7_challenge_schema.sql…]()
-
+![Screenshot 2023-07-31 at 10 08 27 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/956bbc53-8cd7-48c8-9db2-28ccb0838ee4)
 
 After creating the database schema, import the data from the corresponding CSV files.
+
+**Data imported without errors**
 
 ### Data Analysis
 #### Part 1:
