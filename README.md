@@ -1,9 +1,5 @@
 # Unit 7 Homework Assignment: Looking for Suspicious Transactions
 
-![Credit card fraudster](Images/credit_card_fraudster.jpg)
-
-*[Credit Card Fraudster by Richard Patterson](https://www.flickr.com/photos/136770128@N07/42252105582/) | [Creative Commons Licensed](https://creativecommons.org/licenses/by/2.0/)*
-
 ## Background
 
 Fraud is prevalent these days, whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
@@ -67,9 +63,15 @@ The CFO of your firm has requested a report to help analyze potential fraudulent
 
 **Output:** [group_transactions_by_cardholder.csv](data_outputs/group_transactions_by_cardholder.csv)
 
-  * Count the transactions that are less than $2.00 per cardholder. 
+  * Count the transactions that are less than $2.00 per cardholder.
+
+![Screenshot 2023-07-31 at 10 16 32 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/552b2571-b1d1-4506-afb7-7253742154b8)
+
+**Output:** [transactions_less_2.csv](data_outputs/transactions_less_2.csv)
   
   * Is there any evidence to suggest that a credit card has been hacked? Explain your rationale.
+
+**Based on the data there is no direct evidence that a single cardholder has been hacked, however if we assume fradulent transactions are under $2, then Megan Price, Danielle Green, and Malik Carlson are the most at risk**
 
 * Take your investigation a step futher by considering the time period in which potentially fraudulent transactions are made. 
 
