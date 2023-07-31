@@ -71,21 +71,31 @@ The CFO of your firm has requested a report to help analyze potential fraudulent
   
   * Is there any evidence to suggest that a credit card has been hacked? Explain your rationale.
 
-**Based on the data there is no direct evidence that a single cardholder has been hacked, however if we assume fradulent transactions are under $2, then Megan Price, Danielle Green, and Malik Carlson are the most at risk**
+**Based on the data there is no direct evidence that a single cardholder has been hacked, however if we assume fradulent transactions are under $2, then Megan Price, Danielle Green, and Malik Carlson are the most at risk.**
 
-* Take your investigation a step futher by considering the time period in which potentially fraudulent transactions are made. 
+* Take your investigation a step futher by considering the time period in which potentially fraudulent transactions are made.
 
   * What are the top 100 highest transactions made between 7:00 am and 9:00 am?
+ 
+  ![Screenshot 2023-07-31 at 10 23 46 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/27f437d8-bb00-401e-9340-f5bff82b7baa)
+
+**Output:** [transactions_7_to_9.csv](data_outputs/transactions_7_to_9.csv)
 
   * Do you see any anomalous transactions that could be fraudulent?
 
+ **Based on the data, there is no one time between 7am to 9am that suggests fradulent activity.**
+
   * Is there a higher number of fraudulent transactions made during this time frame versus the rest of the day?
+
+  **No, cannot be inferred from data.**
 
   * If you answered yes to the previous question, explain why you think there might be fraudulent transactions during this time frame.
 
 * What are the top 5 merchants prone to being hacked using small transactions?
 
-* Create a view for each of your queries.
+![Screenshot 2023-07-31 at 10 30 36 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/f1323083-f9c9-44ba-9779-22ebe904a171)
+
+**Output:** [merchant_small_transactions.csv](data_outputs/merchant_small_transactions.csv)
 
 #### Part 2:
 
