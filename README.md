@@ -39,6 +39,8 @@ Part of the challenge here is to figure out how many tables you should create, a
 
 Feel free to discuss your database model design ideas with your classmates. You can use a tool like [Quick Database Diagrams](https://www.quickdatabasediagrams.com) to create your model.
 
+![ERD](https://github.com/br4nders0n/module_7_challenge/assets/133409952/9ac39ef0-7f77-4d1d-8041-4c2273a0a031)
+
 **Hints:** 
 
 * For the `credit_card` and `transaction` tables, the `card` column should be a VARCHAR(20) datatype rather than an INT.
