@@ -42,6 +42,8 @@ Feel free to discuss your database model design ideas with your classmates. You 
 * For the `credit_card` and `transaction` tables, the `card` column should be a VARCHAR(20) datatype rather than an INT.
 * For the `transaction` table, the `date` column should be a TIMESTAMP datatype rather than DATE.
 
+![ERD](https://github.com/br4nders0n/module_7_challenge/assets/133409952/d4275430-9bd8-4911-b91c-0bd51589808c)
+
 ### Data Engineering
 
 Using your database model as a blueprint, create a database schema for each of your tables and relationships. Remember to specify data types, primary keys, foreign keys, and any other constraints you defined.
