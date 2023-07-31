@@ -62,6 +62,10 @@ The CFO of your firm has requested a report to help analyze potential fraudulent
 * Some fraudsters hack a credit card by making several small transactions (generally less than $2.00), which are typically ignored by cardholders. 
 
   * How can you isolate (or group) the transactions of each cardholder?
+    
+![Screenshot 2023-07-31 at 10 13 04 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/118e07fb-404c-4a3e-8502-4bd2024de271)
+
+**Output:** [group_transactions_by_cardholder.csv](data_outputs/group_transactions_by_cardholder.csv)
 
   * Count the transactions that are less than $2.00 per cardholder. 
   
