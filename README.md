@@ -97,6 +97,8 @@ The CFO of your firm has requested a report to help analyze potential fraudulent
 
 **Output:** [merchant_small_transactions.csv](data_outputs/merchant_small_transactions.csv)
 
+**The top 5 are Wood-Ramirez, Hood-Phillips, Baker Inc, Clark and Sons, and Green-Wood.**
+
 #### Part 2:
 
 Your CFO has also requested detailed trends data on specific card holders. Use the [starter notebook](Starter_Files/challenge.ipynb) to query your database and generate visualizations that supply the requested information as follows, then add your visualizations and observations to your markdown report:      
