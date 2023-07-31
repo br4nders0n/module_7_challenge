@@ -103,19 +103,33 @@ Your CFO has also requested detailed trends data on specific card holders. Use t
 
 * The two most important customers of the firm may have been hacked. Verify if there are any fraudulent transactions in their history. For privacy reasons, you only know that their cardholder IDs are 2 and 18.
 
-  * Using hvPlot, create a line plot representing the time series of transactions over the course of the year for each cardholder separately. 
-  
-  * Next, to better compare their patterns, create a single line plot that contains both card holders' trend data.  
+  * Using hvPlot, create a line plot representing the time series of transactions over the course of the year for each cardholder separately.
+ 
+![Screenshot 2023-07-31 at 10 35 24 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/68181971-98f7-44ee-afb2-193f57ec1183)
+
+![Screenshot 2023-07-31 at 10 35 51 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/04ffb8d0-13ea-474f-9679-f0d83f149bce)
+
+  * Next, to better compare their patterns, create a single line plot that contains both card holders' trend data.
+
+![Screenshot 2023-07-31 at 10 37 01 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/54b060a8-71ea-4a90-aebd-b1b0568a271e)
 
   * What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction? Explain your rationale.
+
+ **The consumption patterns of both cardholders are very different. Cardholder 18 makes mostly small transactions and then 1 or 2 big ones a month, while cardholder 2 makes only small transactions. Based on this data, cardholder 2 is more susceptible to fraud.**
 
 * The CEO of the biggest customer of the firm suspects that someone has used her corporate credit card without authorization in the first quarter of 2018 to pay quite expensive restaurant bills. Again, for privacy reasons, you know only that the cardholder ID in question is 25.
 
   * Using hvPlot, create a box plot, representing the expenditure data from January 2018 to June 2018 for cardholder ID 25.
   
+  ![Screenshot 2023-07-31 at 10 42 06 AM](https://github.com/br4nders0n/module_7_challenge/assets/133409952/f9fbbfcf-4d52-4da7-b573-6bc33da87783)
+
   * Are there any outliers for cardholder ID 25? How many outliers are there per month?
+ 
+  **Yes, there are outliers. January, March, and May all had 1 outlier transaction, while April and June had 3.**
 
   * Do you notice any anomalies? Describe your observations and conclusions.
+ 
+  **I think the months with highest risk of fradulent transactions are the ones with 1 outlier. The fraudster could be making one large purchase a month to see if customer 25 notices on their credit card statement.**
 
 ### Challenge
 
